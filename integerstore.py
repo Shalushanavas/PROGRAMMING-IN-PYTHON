@@ -1,5 +1,4 @@
 list = []
-
 for x in range(3):
     num = int(input("Enter an Integer : "))
     if(num>100):
